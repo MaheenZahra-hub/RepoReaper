@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "repo-reaper-tools": {
+      "command": "node",
+      "args": ["server/mcp-server.js"],
+      "disabled": false
+    }
+  }
+}
